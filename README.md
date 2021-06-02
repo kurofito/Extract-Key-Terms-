@@ -9,7 +9,7 @@ The program does the following.
 
     2a. Stop-words, digits, and punctations are deleted and lemmatization is applied
 
-    2b. Part-of-speech tagging (a POS-tag) to mark nouns as keywords.
+    2b. Part-of-speech tagging (a POS-tag) to mark and extract nouns as keywords.
 
 3.  Use TF-IDF(term frequency-inverted document frequency)
 3a. Count the TF-IDF metric on all words  
