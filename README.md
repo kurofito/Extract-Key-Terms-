@@ -6,7 +6,9 @@ The program does the following.
 1.  Reads a xml file containing news articles
 
 2.  Goes through text preprocessing pipeline
+
 2a. Stop-words, digits, and punctations are deleted and lemmatization is applied
+
 2b. Part-of-speech tagging (a POS-tag) to mark nouns as keywords.
 
 3.  Use TF-IDF(term frequency-inverted document frequency)
